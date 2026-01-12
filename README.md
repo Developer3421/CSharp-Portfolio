@@ -27,8 +27,8 @@ Produktiv im Microsoft Store veröffentlicht
 Technologien:
 C#, .NET 10, Avalonia UI, Chromium WebView, LiteDB
 
-🔗 Microsoft Store: (Link hier einfügen)
-🔗 GitHub Repository: (Link hier einfügen – optional / privat)
+🔗 Microsoft Store: https://apps.microsoft.com/detail/9P2XG1K9CVMH
+🔗 GitHub Repository: https://github.com/Developer3421/Vetale-Browser-Official
 
 Insait Text Editor
 
@@ -50,8 +50,8 @@ Mehrsprachige Benutzeroberfläche
 Technologien:
 C#, .NET 10, Avalonia UI, LLamaSharp, LiteDB, SkiaSharp
 
-🔗 Microsoft Store: (Link hier einfügen)
-🔗 GitHub Repository: (Link hier einfügen)
+🔗 Microsoft Store: https://apps.microsoft.com/detail/9PMDTL9PRP7J
+🔗 GitHub Repository: https://github.com/Developer3421/Insait-Text-Editor
 
 VRelaxTimer
 
@@ -73,8 +73,8 @@ Single-File Deployment
 Technologien:
 C#, .NET 9, WPF, LLamaSharp
 
-🔗 Microsoft Store: (Link hier einfügen)
-🔗 GitHub Repository: (Link hier einfügen)
+🔗 Microsoft Store: https://apps.microsoft.com/detail/9PBNDBFZ1JKK
+🔗 GitHub Repository: https://github.com/Developer3421/VRelaxTimer
 
 German B1 – Step Further
 
@@ -95,8 +95,8 @@ Store-taugliche Produktarchitektur
 Technologien:
 C#, .NET 10, Avalonia UI, LiteDB, LLamaSharp
 
-🔗 Microsoft Store: (Link hier einfügen)
-🔗 GitHub Repository: (Link hier einfügen)
+🔗 Microsoft Store: https://apps.microsoft.com/detail/9P6F8KJJWTJ5
+🔗 GitHub Repository: https://github.com/Developer3421/german-b1-step-further
 
 Vetale Browser Super Lite
 
@@ -117,8 +117,8 @@ Klarer Fokus auf Wartbarkeit
 Technologien:
 C#, WPF, .NET Framework 4.8, CefSharp
 
-🔗 Microsoft Store: (Link hier einfügen)
-🔗 GitHub Repository: (Link hier einfügen)
+🔗 Microsoft Store: https://apps.microsoft.com/detail/9NZPNGDCQX2P
+🔗 GitHub Repository: https://github.com/Developer3421/Vetale-Browser-SuperLite
 
 Zusammenfassung für HR
 
