@@ -1,133 +1,144 @@
-C# Portfolio – HR Overview
+# C# Portfolio – HR Overview
 
-Professionelle Desktop-Anwendungen mit C# und .NET
+**Professionelle Desktop-Anwendungen mit C# und .NET**
 
 Dieses Repository bietet eine übersichtliche Präsentation meiner wichtigsten Desktop-Projekte, entwickelt mit modernen .NET-Technologien.
 Alle Anwendungen sind produktiv einsetzbar, eigenständig gepflegt und im Microsoft Store veröffentlicht.
 
-🔓 Open Source:
-Alle Projekte sind Open Source, mit Ausnahme von Vetale Browser, der als proprietäres Hauptprodukt entwickelt wird.
+> 📊 **Microsoft Store Statistiken**: Im Repository befinden sich Archive mit detaillierten Statistiken vom 12.01.2026 aus dem Microsoft Store für alle 5 Projekte.
 
-Vetale Browser
+## 🔓 Open Source
 
-Moderner Desktop-Webbrowser mit integrierter KI und Fokus auf Datenschutz
+Alle Projekte sind Open Source, mit Ausnahme von **Vetale Browser**, der als proprietäres Hauptprodukt entwickelt wird.
+
+---
+
+## Vetale Browser
+
+**Moderner Desktop-Webbrowser mit integrierter KI und Fokus auf Datenschutz**
 
 Vetale Browser ist ein leistungsfähiger Desktop-Webbrowser mit KI-Unterstützung, moderner Benutzeroberfläche und klarer Trennung zwischen lokaler Verarbeitung und externen Diensten.
 
-Highlights für Recruiter:
+### Highlights für Recruiter:
+- Integration moderner KI-Technologien (lokal + API-basiert)
+- Komplexes UI- und State-Management (Tabs, Sessions, Speicheroptimierung)
+- Fokus auf Datenschutz und Offline-Funktionalität
+- Produktiv im Microsoft Store veröffentlicht
 
-Integration moderner KI-Technologien (lokal + API-basiert)
+### Technologien:
+`C#` · `.NET 10` · `Avalonia UI` · `Chromium WebView` · `LiteDB`
 
-Komplexes UI- und State-Management (Tabs, Sessions, Speicheroptimierung)
+🔗 **Microsoft Store**: (Link hier einfügen)  
+🔗 **GitHub Repository**: (Link hier einfügen – optional / privat)
 
-Fokus auf Datenschutz und Offline-Funktionalität
+---
 
-Produktiv im Microsoft Store veröffentlicht
+## Insait Text Editor
 
-Technologien:
-C#, .NET 10, Avalonia UI, Chromium WebView, LiteDB
-
-🔗 Microsoft Store: https://apps.microsoft.com/detail/9P2XG1K9CVMH
-🔗 GitHub Repository: https://github.com/Developer3421/Vetale-Browser-Official
-
-Insait Text Editor
-
-Intelligenter Texteditor mit lokalem KI-Assistenten (Offline-First)
+**Intelligenter Texteditor mit lokalem KI-Assistenten (Offline-First)**
 
 Ein moderner Texteditor mit lokal ausgeführtem KI-Assistenten.
 Die Anwendung ist vollständig offline nutzbar und legt besonderen Wert auf Privatsphäre und Performance.
 
-Highlights für Recruiter:
+### Highlights für Recruiter:
+- Eigenständige Desktop-App mit komplexer interner Architektur
+- Lokale KI-Inferenz ohne Cloud-Abhängigkeit
+- Saubere MVVM-Struktur und modulare Services
+- Mehrsprachige Benutzeroberfläche
 
-Eigenständige Desktop-App mit komplexer interner Architektur
+### Technologien:
+`C#` · `.NET 10` · `Avalonia UI` · `LLamaSharp` · `LiteDB` · `SkiaSharp`
 
-Lokale KI-Inferenz ohne Cloud-Abhängigkeit
+🔗 **Microsoft Store**: (Link hier einfügen)  
+🔗 **GitHub Repository**: (Link hier einfügen)
 
-Saubere MVVM-Struktur und modulare Services
+---
 
-Mehrsprachige Benutzeroberfläche
+## VRelaxTimer
 
-Technologien:
-C#, .NET 10, Avalonia UI, LLamaSharp, LiteDB, SkiaSharp
-
-🔗 Microsoft Store: https://apps.microsoft.com/detail/9PMDTL9PRP7J
-🔗 GitHub Repository: https://github.com/Developer3421/Insait-Text-Editor
-
-VRelaxTimer
-
-Leichtgewichtige Desktop-Anwendung für Fokus und Entspannung
+**Leichtgewichtige Desktop-Anwendung für Fokus und Entspannung**
 
 VRelaxTimer kombiniert einen klassischen Entspannungstimer mit einem lokalen KI-Textassistenten.
 Die Anwendung ist bewusst minimalistisch gehalten und vollständig offline nutzbar.
 
-Highlights für Recruiter:
+### Highlights für Recruiter:
+- Fokus auf einfache UX und klare Funktionalität
+- Lokale KI-Nutzung ohne externe Services
+- Saubere asynchrone Verarbeitung
+- Single-File Deployment
 
-Fokus auf einfache UX und klare Funktionalität
+### Technologien:
+`C#` · `.NET 9` · `WPF` · `LLamaSharp`
 
-Lokale KI-Nutzung ohne externe Services
+🔗 **Microsoft Store**: (Link hier einfügen)  
+🔗 **GitHub Repository**: (Link hier einfügen)
 
-Saubere asynchrone Verarbeitung
+---
 
-Single-File Deployment
+## German B1 – Step Further
 
-Technologien:
-C#, .NET 9, WPF, LLamaSharp
-
-🔗 Microsoft Store: https://apps.microsoft.com/detail/9PBNDBFZ1JKK
-🔗 GitHub Repository: https://github.com/Developer3421/VRelaxTimer
-
-German B1 – Step Further
-
-Desktop-Anwendung zum Deutschlernen (B1-Niveau)
+**Desktop-Anwendung zum Deutschlernen (B1-Niveau)**
 
 Eine strukturierte Lernanwendung für Deutsch als Fremdsprache mit integriertem KI-Assistenten zur individuellen Unterstützung.
 
-Highlights für Recruiter:
+### Highlights für Recruiter:
+- Didaktisch strukturierter Content
+- Fortschritts- und Sitzungsverwaltung
+- Kombination aus klassischer Lernlogik und KI-Unterstützung
+- Store-taugliche Produktarchitektur
 
-Didaktisch strukturierter Content
+### Technologien:
+`C#` · `.NET 10` · `Avalonia UI` · `LiteDB` · `LLamaSharp`
 
-Fortschritts- und Sitzungsverwaltung
+### Technische Details:
+- **Framework**: .NET 10.0, Avalonia UI 11.3.9
+- **UI-Komponenten**: Tab-basierte Navigation, Dual-Panel-Ansicht, benutzerdefinierte Titelleiste
+- **Datenbank**: LiteDB 6.0 für Sitzungsverwaltung und Fortschrittsspeicherung
+- **KI-Integration**: LLamaSharp 0.25.0 mit Gemma-3-270m-Modell für intelligente Lernunterstützung
+- **Architektur**: MVVM-Pattern mit ResourceDictionary-basiertem Inhaltssystem
+- **Inhalt**: 4 Teile mit je 18 Themen (Wortschatz, Konversation, Grammatik, Übungen)
 
-Kombination aus klassischer Lernlogik und KI-Unterstützung
+### Hauptfunktionen:
+- Interaktive Grammatikübungen und Zeitformen
+- Tabbed Interface für paralleles Lernen
+- Session-Management mit Lesezeichenfunktion
+- Eingebetteter WebView für erweiterte Inhalte
+- KI-Assistent für personalisierte Hilfe
 
-Store-taugliche Produktarchitektur
+🔗 **Microsoft Store**: (Link hier einfügen)  
+🔗 **GitHub Repository**: (Link hier einfügen)
 
-Technologien:
-C#, .NET 10, Avalonia UI, LiteDB, LLamaSharp
+---
 
-🔗 Microsoft Store: https://apps.microsoft.com/detail/9P6F8KJJWTJ5
-🔗 GitHub Repository: https://github.com/Developer3421/german-b1-step-further
+## Vetale Browser Super Lite
 
-Vetale Browser Super Lite
-
-Minimalistischer Chromium-basierter Desktop-Browser
+**Minimalistischer Chromium-basierter Desktop-Browser**
 
 Eine bewusst reduzierte Browser-Variante mit Fokus auf Stabilität, Sicherheit und geringer Ressourcennutzung.
 
-Highlights für Recruiter:
+### Highlights für Recruiter:
+- Klassische Desktop-Architektur mit WPF
+- Direkte Arbeit mit Embedded Chromium (CEF)
+- Eigene Fehler- und Sicherheitslogik
+- Klarer Fokus auf Wartbarkeit
 
-Klassische Desktop-Architektur mit WPF
+### Technologien:
+`C#` · `WPF` · `.NET Framework 4.8` · `CefSharp`
 
-Direkte Arbeit mit Embedded Chromium (CEF)
+🔗 **Microsoft Store**: (Link hier einfügen)  
+🔗 **GitHub Repository**: (Link hier einfügen)
 
-Eigene Fehler- und Sicherheitslogik
+---
 
-Klarer Fokus auf Wartbarkeit
+## Zusammenfassung für HR
 
-Technologien:
-C#, WPF, .NET Framework 4.8, CefSharp
+✅ Mehrere produktionsreife Desktop-Anwendungen  
+✅ Moderne .NET- und UI-Frameworks  
+✅ Erfahrung mit KI-Integration (lokal & API-basiert)  
+✅ Microsoft-Store-Erfahrung (Packaging, Deployment, Policies)  
+✅ Fokus auf saubere Architektur, Datenschutz und Wartbarkeit
 
-🔗 Microsoft Store: https://apps.microsoft.com/detail/9NZPNGDCQX2P
-🔗 GitHub Repository: https://github.com/Developer3421/Vetale-Browser-SuperLite
+---
 
-Zusammenfassung für HR
+**Lizenz**: MIT (außer Vetale Browser)
 
-Mehrere produktionsreife Desktop-Anwendungen
-
-Moderne .NET- und UI-Frameworks
-
-Erfahrung mit KI-Integration (lokal & API-basiert)
-
-Microsoft-Store-Erfahrung (Packaging, Deployment, Policies)
-
-Fokus auf saubere Architektur, Datenschutz und Wartbarkeit
