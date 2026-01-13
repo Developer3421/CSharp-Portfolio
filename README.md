@@ -28,7 +28,7 @@ Vetale Browser ist ein leistungsfähiger Desktop-Webbrowser mit KI-Unterstützun
 ### Technologien:
 `C#` · `.NET 10` · `Avalonia UI` · `Chromium WebView` · `LiteDB`
 
-🔗 **Microsoft Store**: (Link hier einfügen)  
+🔗 **Microsoft Store**:  https://apps.microsoft.com/detail/9P2XG1K9CVMH 
 🔗 **GitHub Repository**: (Link hier einfügen – optional / privat)
 
 ---
