@@ -105,8 +105,8 @@ Eine strukturierte Lernanwendung für Deutsch als Fremdsprache mit integriertem 
 - Eingebetteter WebView für erweiterte Inhalte
 - KI-Assistent für personalisierte Hilfe
 
-🔗 **Microsoft Store**: 
-🔗 **GitHub Repository**: 
+🔗 **Microsoft Store**: https://apps.microsoft.com/detail/9P6F8KJJWTJ5
+🔗 **GitHub Repository**: https://github.com/Developer3421/german-b1-step-further
 
 ---
 
@@ -125,8 +125,8 @@ Eine bewusst reduzierte Browser-Variante mit Fokus auf Stabilität, Sicherheit u
 ### Technologien:
 `C#` · `WPF` · `.NET Framework 4.8` · `CefSharp`
 
-🔗 **Microsoft Store**:  
-🔗 **GitHub Repository**: 
+🔗 **Microsoft Store**:  https://apps.microsoft.com/detail/9NZPNGDCQX2P
+🔗 **GitHub Repository**: https://github.com/Developer3421/Vetale-Browser-SuperLite
 
 ---
 
