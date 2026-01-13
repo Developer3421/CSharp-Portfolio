@@ -29,7 +29,7 @@ Vetale Browser ist ein leistungsfähiger Desktop-Webbrowser mit KI-Unterstützun
 `C#` · `.NET 10` · `Avalonia UI` · `Chromium WebView` · `LiteDB`
 
 🔗 **Microsoft Store**:  https://apps.microsoft.com/detail/9P2XG1K9CVMH 
-🔗 **GitHub Repository**: (Link hier einfügen – optional / privat)
+🔗 **GitHub Repository**: https://github.com/Developer3421/Vetale-Browser-Official
 
 ---
 
@@ -49,8 +49,8 @@ Die Anwendung ist vollständig offline nutzbar und legt besonderen Wert auf Priv
 ### Technologien:
 `C#` · `.NET 10` · `Avalonia UI` · `LLamaSharp` · `LiteDB` · `SkiaSharp`
 
-🔗 **Microsoft Store**: (Link hier einfügen)  
-🔗 **GitHub Repository**: (Link hier einfügen)
+🔗 **Microsoft Store**: https://apps.microsoft.com/detail/9PMDTL9PRP7J
+🔗 **GitHub Repository**: https://github.com/Developer3421/Insait-Text-Editor
 
 ---
 
@@ -70,8 +70,8 @@ Die Anwendung ist bewusst minimalistisch gehalten und vollständig offline nutzb
 ### Technologien:
 `C#` · `.NET 9` · `WPF` · `LLamaSharp`
 
-🔗 **Microsoft Store**: (Link hier einfügen)  
-🔗 **GitHub Repository**: (Link hier einfügen)
+🔗 **Microsoft Store**: https://apps.microsoft.com/detail/9PBNDBFZ1JKK
+🔗 **GitHub Repository**: https://github.com/Developer3421/VRelaxTimer
 
 ---
 
@@ -105,8 +105,8 @@ Eine strukturierte Lernanwendung für Deutsch als Fremdsprache mit integriertem 
 - Eingebetteter WebView für erweiterte Inhalte
 - KI-Assistent für personalisierte Hilfe
 
-🔗 **Microsoft Store**: (Link hier einfügen)  
-🔗 **GitHub Repository**: (Link hier einfügen)
+🔗 **Microsoft Store**: 
+🔗 **GitHub Repository**: 
 
 ---
 
@@ -125,8 +125,8 @@ Eine bewusst reduzierte Browser-Variante mit Fokus auf Stabilität, Sicherheit u
 ### Technologien:
 `C#` · `WPF` · `.NET Framework 4.8` · `CefSharp`
 
-🔗 **Microsoft Store**: (Link hier einfügen)  
-🔗 **GitHub Repository**: (Link hier einfügen)
+🔗 **Microsoft Store**:  
+🔗 **GitHub Repository**: 
 
 ---
 
