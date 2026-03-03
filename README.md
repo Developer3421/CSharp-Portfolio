@@ -130,13 +130,167 @@ Eine bewusst reduzierte Browser-Variante mit Fokus auf Stabilität, Sicherheit u
 
 ---
 
+## Insait Edit – C#-IDE
+
+**Moderne, plattformübergreifende Entwicklungsumgebung für C# und .NET**
+
+Insait Edit ist eine leistungsstarke IDE für C#- und .NET-Entwicklung, aufgebaut auf Avalonia UI und der Roslyn-Compiler-Plattform. Sie bietet IntelliSense, Echtzeit-Diagnose, Refactoring, MSBuild-Integration, ein eingebettetes Terminal, NuGet-Verwaltung und Git-/GitHub-Integration – alles in einem modernen Fluent-Design in Orange-Violett.
+
+### Highlights für Recruiter:
+- Vollständige Roslyn-Integration: IntelliSense, Code-Fixes, symbolweites Umbenennen
+- MSBuild-Integration zum Erstellen, Ausführen und Veröffentlichen von .NET-Projekten
+- Eingebetteter ConPTY-Terminal-Emulator mit ANSI-Rendering
+- Git- und GitHub-Integration (Commit, Push, Pull, Diff, Klonen)
+- NuGet-Paketverwaltung und MSIX-Manager direkt in der IDE
+- ESP32-/nanoFramework-Unterstützung mit visuellem LED-Panel-Designer
+- AXAML-Live-Vorschau für Avalonia-UI-Dateien
+- Mehrsprachige Oberfläche (Englisch, Ukrainisch, Deutsch, Russisch, Türkisch)
+- Gemini-KI-Assistent für Code-Unterstützung und Übersetzung
+
+### Technologien:
+`C#` · `.NET 10` · `Avalonia UI 11.3` · `Microsoft Roslyn 5.0` · `MSBuild 18.3` · `LibGit2` · `NuGet.Protocol` · `Octokit` · `LiteDB` · `nanoFramework`
+
+🔗 **GitHub Repository**: https://github.com/Developer3421/Insait-Edit-C-Sharp
+
+---
+
+## VCalc – Wissenschaftlicher Taschenrechner
+
+**Moderner Desktop-Taschenrechner mit wissenschaftlichen Funktionen und vollständiger Tastaturunterstützung**
+
+VCalc ist ein eleganter wissenschaftlicher Taschenrechner für Windows mit warmem Farbdesign, abgerundeten Ecken und flüssigen Verläufen. Er bietet Grundrechenarten sowie wissenschaftliche Funktionen wie Sinus, Kosinus, Tangens, Logarithmus und Potenzrechnung, unterstützt mehrere Fenster gleichzeitig und benötigt keine Internetverbindung.
+
+### Highlights für Recruiter:
+- Wissenschaftliche Funktionen (sin, cos, tan, log, ln, Potenz, π, e)
+- Vollständige Tastatur- und Nummernblock-Unterstützung
+- Multi-Window-Unterstützung für parallele Berechnungen
+- Datenschutzkonform: kein Netzwerkzugriff, keine Telemetrie
+
+### Technologien:
+`C#` · `.NET 10` · `WPF`
+
+🔗 **Microsoft Store**: https://apps.microsoft.com/detail/9NCBKT3KXS5F
+🔗 **GitHub Repository**: https://github.com/Developer3421/VCalc
+
+---
+
+## FileManager – Dateimanager
+
+**Moderner, leichtgewichtiger Dateimanager für Windows mit Multi-Tab-Navigation**
+
+Ein schlanker Dateimanager auf Basis von Avalonia UI mit Multi-Tab-Navigation, Listen- und Rasteransicht, integrierter Bildvorschau, nativen Windows-Shell-Kontextmenüs und einer Schnellzugriff-Seitenleiste für Desktop, Downloads, Dokumente, Bilder, Videos und Musik.
+
+### Highlights für Recruiter:
+- Multi-Tab-Navigation mit persistenter Tab-Wiederherstellung beim Start
+- Unterstützung nativer Windows-Shell-Kontextmenüs
+- Sortierung nach Name, Datum, Größe und Typ
+- Eingebetteter Bildbetrachter für gängige Bildformate
+- Mehrsprachige Oberfläche (Englisch, Ukrainisch, Deutsch)
+- Laufwerksanzeige mit Nutzungsinformationen
+
+### Technologien:
+`C#` · `.NET` · `Avalonia UI`
+
+🔗 **Microsoft Store**: https://apps.microsoft.com/detail/9PH9GFGXJDHK
+🔗 **GitHub Repository**: https://github.com/Developer3421/FileManager
+
+---
+
+## Insait Video Player – Videoplayer
+
+**Funktionsreicher Desktop-Videoplayer mit Sitzungsverwaltung und verschlüsselter Datenspeicherung**
+
+Ein moderner Videoplayer für Windows, der auf Avalonia UI und LibVLC basiert. Er unterstützt eine Vielzahl von Videoformaten, bietet ein Tab-Interface für mehrere Videos gleichzeitig, automatische Sitzungsspeicherung, Wiedergabeverlauf mit Positionsspeicherung, Untertitelverwaltung und Audiospurauswahl.
+
+### Highlights für Recruiter:
+- Tabbed Interface mit Drag-to-Reorder und Überlaufmenü
+- Sitzungsverwaltung mit verschlüsselter Speicherung via Windows DPAPI
+- Vollbild-Modus mit automatischem UI-Ausblenden
+- Drag-and-Drop zum Öffnen von Videodateien
+- Mehrsprachige Oberfläche (Ukrainisch, Englisch, Deutsch, Russisch, Türkisch)
+- Datenschutzkonform: alle Daten lokal und verschlüsselt
+
+### Technologien:
+`C#` · `.NET 10` · `Avalonia UI 11.3` · `LibVLCSharp 3.9.5` · `LiteDB 6.0` · `Windows DPAPI`
+
+🔗 **Microsoft Store**: https://apps.microsoft.com/detail/9PKXCQFWDNFQ
+🔗 **GitHub Repository**: https://github.com/Developer3421/Insait-Video-Player
+
+---
+
+## Insait Translator: German – Übersetzungsanwendung
+
+**Hybrid-Desktop-App (C# + React) zum Übersetzen beliebiger Sprachen ins Deutsche mit optionaler Text-to-Speech-Funktion**
+
+Eine datenschutzorientierte Windows-Desktop-Anwendung, die Text aus beliebigen Sprachen ins Deutsche übersetzt. Sie nutzt mehrere Übersetzungsanbieter mit automatischem Fallback (MyMemory, Google Translate via GTranslate, optional Google Gemini API), bietet deutsche Text-to-Speech-Ausgabe über Piper TTS und eine optionale lokale Web-Oberfläche auf React-Basis.
+
+### Highlights für Recruiter:
+- Hybride Architektur: Avalonia-Desktop-App mit eingebettetem React-Web-UI
+- Anbieter-Fallback-System für robuste Übersetzungen ohne Unterbrechung
+- Lokaler HTTP-Backend-Server für die React-UI (kein Node.js zur Laufzeit erforderlich)
+- Verschlüsselte Einstellungsspeicherung (AES-256 + Windows DPAPI)
+- German TTS mit Piper: Wiedergabe und MP3-Export
+- Workspace-Tabs mit persistenter Speicherung via LiteDB
+- Keine Entwickler-Telemetrie – Netzwerkanfragen nur an gewählte Anbieter
+
+### Technologien:
+`C#` · `.NET 10` · `Avalonia UI 11` · `ReactiveUI` · `React/Vite` · `LiteDB` · `Piper TTS` · `NAudio` · `LibVLCSharp` · `AES-256` · `Windows DPAPI`
+
+🔗 **Microsoft Store**: https://apps.microsoft.com/detail/9PH8XTJ8BCJ7
+🔗 **GitHub Repository**: https://github.com/Developer3421/Insait_Translator_German
+
+---
+
+## V-Task – Systemressourcen-Monitor
+
+**Schlanker, moderner Ressourcenmonitor für Windows mit Echtzeit-Einblick in CPU, RAM, GPU, Festplatte und Netzwerk**
+
+V-Task ist ein eleganter Systemmonitor mit warmem Fluent-UI-Design. Er zeigt Echtzeit-Metriken für CPU, Arbeitsspeicher, GPU, Festplattenaktivität und Netzwerkgeschwindigkeit – ohne Telemetrie, ohne Netzwerkzugriff, ohne Werbung. Alle Daten verbleiben lokal auf dem Gerät.
+
+### Highlights für Recruiter:
+- Echtzeit-CPU-Auslastung mit Prozessorname und Kernanzahl
+- Detailliertes RAM-Panel mit Swap/Auslagerungsdatei, Frequenz, Typ und Steckplätzen
+- GPU-Überwachung: Videospeicher, Treiber-Version, Schnittstelleninfos
+- Netzwerk-Monitor: Download-/Upload-Geschwindigkeit, Gesamtdatenvolumen
+- Konfigurierbare Aktualisierungsrate und Mehrsprachigkeit (5 Sprachen)
+- Datenschutzkonform: keine Telemetrie, kein Netzwerkzugriff
+
+### Technologien:
+`C#` · `.NET 10` · `Avalonia UI 11.3` · `LibreHardwareMonitor` · `LiteDB` · `WMI` · `PerformanceCounter`
+
+🔗 **Microsoft Store**: https://apps.microsoft.com/detail/9P405177WBX9
+🔗 **GitHub Repository**: https://github.com/Developer3421/V-Task
+
+---
+
+## Vetale Browser – Legacy (WPF, 2024)
+
+**Historisches Prototyp-Projekt: Erster Webbrowser auf WPF-Basis als Lernprojekt**
+
+Das erste Vetale-Browser-Projekt aus dem Jahr 2024 – ein minimalistischer Desktop-Webbrowser auf Basis von WPF und Microsoft WebView2. Das Projekt diente als praktische Einführung in Desktop-Anwendungsentwicklung und WebView2-Integration und legte den Grundstein für alle späteren Vetale-Browser-Generationen.
+
+### Highlights für Recruiter:
+- Grundlegende Tab-Unterstützung, Navigationsverlauf und Multi-Window-Modus
+- Nur ~22 MB Distributionsgröße inklusive WebView2-Runtime
+- Kein Cloud-Sync, keine Telemetrie, minimaler interner Zustand
+- Historisches Projekt: zeigt die Entwicklung und den Lernfortschritt über die Zeit
+
+### Technologien:
+`C#` · `WPF` · `.NET 7` · `Microsoft WebView2`
+
+🔗 **GitHub Repository**: https://github.com/Developer3421/Vetale-Browser-Legacy-WPF-2024-
+
+---
+
 ## Zusammenfassung für HR
 
 ✅ Mehrere produktionsreife Desktop-Anwendungen  
 ✅ Moderne .NET- und UI-Frameworks  
 ✅ Erfahrung mit KI-Integration (lokal & API-basiert)  
 ✅ Microsoft-Store-Erfahrung (Packaging, Deployment, Policies)  
-✅ Fokus auf saubere Architektur, Datenschutz und Wartbarkeit
+✅ Fokus auf saubere Architektur, Datenschutz und Wartbarkeit  
+✅ Hybride Anwendungsarchitektur (C# + React/Web)  
+✅ Breites Anwendungsspektrum: IDE, Browser, Mediaplayer, Systemtools, Lern-Apps
 
 ---
 
